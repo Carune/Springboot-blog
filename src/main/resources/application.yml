@@ -16,8 +16,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://database-blog.cx2gdyeyetpu.us-east-1.rds.amazonaws.com:3306/blog?serverTimezone=Asia/Seoul
-    username: admin
-    password: Vostlckdlfem1~
+    username: 
+    password: 
     
   jpa:
     open-in-view: true
