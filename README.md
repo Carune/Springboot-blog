@@ -1,6 +1,6 @@
 # Springboot-blog
 
-자바 IDE 인 STS 를 사용하여 스프링부트 + JPA + MySQL 을 사용한 블로그 프로젝트입니다.
+자바 IDE 인 STS 를 사용하여 스프링부트 + JPA + MySQL을 사용한 블로그 프로젝트입니다.
 
 메인 패키지 내에 각 역할을 담당하는 패키지를 구성하였습니다.
 config(인증) / controller / dto / handler(오류발생시 핸들러) / model /repository / service
